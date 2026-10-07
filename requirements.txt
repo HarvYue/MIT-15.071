@@ -1,0 +1,16 @@
+# 15.071 HW4
+
+# Notebook engine
+jupyterlab
+ipykernel
+
+# data manipulation
+numpy
+pandas
+
+# modeling
+scikit-learn
+
+# graphics
+matplotlib
+seaborn
